@@ -104,6 +104,8 @@
     "No expiry (optional)" : "期限なし (任意)",
     "Skip email verification" : "メール認証をスキップ",
     "If enabled, the email address does not need to be verified and the user can create the account right after entering their email address." : "有効にすると、メールアドレスの確認は不要になり、ユーザーはメールアドレスを入力した直後にアカウントを作成できます。",
+    "Skip administrator approval" : "管理者承認をスキップ",
+    "If enabled, the account is enabled immediately even when administrator approval is required." : "有効にすると、管理者の承認が必要な場合でもアカウントが即座に有効化されます。",
     "Create invitation" : "招待を作成",
     "Could not load invitations" : "招待を読み込めませんでした",
     "Could not create the invitation" : "招待を作成できませんでした",
